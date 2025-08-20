@@ -8,14 +8,12 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
----
 
-### 🗄️ Databases
+
+
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=6)](https://skillicons.dev)
 
----
 
-### 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6)](https://skillicons.dev)
 
 ---
