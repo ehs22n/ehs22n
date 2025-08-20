@@ -2,7 +2,8 @@
 
 ###
 ### 🚀 my skills:
-[![Skills](https://skillicons.dev/icons?i=python,django,redis,numpy,mysql,sqlite,postgres,html,css,bootstrap,js,docker,linux,git,vscode,pycharm&perline=20)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=python,django,redis,mysql,sqlite,postgres,html,css,bootstrap,js,docker,linux,git,vscode,pycharm&perline=20)](https://skillicons.dev)  
+![Numpy](https://img.shields.io/badge/numpy-2E2E2E?style=for-the-badge&logo=python&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-3C873A?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
