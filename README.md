@@ -20,7 +20,7 @@
 
 ---
 
-### ⚙️ DevOps / Server
+### ⚙️ Server
 [![DevOps](https://skillicons.dev/icons?i=docker,linux,git&perline=6)](https://skillicons.dev)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
