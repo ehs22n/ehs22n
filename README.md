@@ -24,12 +24,6 @@
 [![DevOps](https://skillicons.dev/icons?i=docker,linux,git&perline=6)](https://skillicons.dev)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=I'm+a+Junior+Backend+Developer;Passionate+about+APIs+%26+Databases;Always+Learning+and+Improving)](https://git.io/typing-svg)
-
-🚀 Skilled in Python & Django  
-🌱 Exploring REST APIs, Databases, and DevOps  
-💡 Open to collaboration and new challenges
 
 ---
 
@@ -41,3 +35,7 @@
 
 ### 🖼️ UI Python
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Junior%20Backend%20Developer&fontAlign=50&fontAlignY=40&color=gradient&desc=Python%20%7C%20Django%20%7C%20APIs&descAlign=50&descAlignY=65)
