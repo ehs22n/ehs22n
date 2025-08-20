@@ -3,7 +3,7 @@
 ###
 ### 🚀 Backend / Python
 [![Backend](https://skillicons.dev/icons?i=python,django,redis,celery,numpy&perline=6)](https://skillicons.dev)
-
+![Celery](https://img.shields.io/badge/Celery-3C873A?style=for-the-badge)
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
